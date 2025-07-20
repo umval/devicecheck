@@ -37,7 +37,7 @@ if __name__ == "__main__":
     scans = []
 
     print(f"""
-                                                                                        {Fore.WHITE}Crédit : #sendyourwomen
+                                                                                        {Fore.WHITE}Crédit : #umval
 
 {Fore.RED}            ## ##   ###  ##   ## ##   ##   ##           ### ##   ### ###  ### ###    ####    ## ##   ### ###
             ##   ##   ##  ##  ##   ##  ##   ##            ##  ##   ##  ##   ##  ##     ##    ##   ##   ##  ##
