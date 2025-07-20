@@ -1,6 +1,7 @@
 <img width="983" height="507" alt="image" src="https://github.com/user-attachments/assets/e60b588e-1a9a-4099-a446-e052f4f24976" />
 
-🔍 ScanNet - Network Device Scanner
+
+# 🔍 ScanNet - Network Device Scanner
 
 A simple Python script to scan devices on your local network using ARP.
 Displays IP, MAC, and hostname if available.
